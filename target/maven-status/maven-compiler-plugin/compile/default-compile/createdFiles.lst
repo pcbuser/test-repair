@@ -1,0 +1,9 @@
+local\config\kafka\KafkaProcessor.class
+local\RepairProcessing.class
+local\PolicyHandler.class
+local\AcceptPlaced.class
+local\RepairProcessingRepository.class
+local\RepairStarted.class
+local\AbstractEvent.class
+local\RepairProcessingController.class
+local\Application.class
